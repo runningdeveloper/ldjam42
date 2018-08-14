@@ -17,3 +17,10 @@ A simple game where you try launch some satellites. The more you launch the more
 ## Other
 
 - Wanted to see how [parceljs](https://parceljs.org/) works
+
+### Helpful links for next time
+
+- [Notes on phaser 3](https://rexrainbow.github.io/phaser3-rex-notes/docs/site/index.html)
+- [Examples phaser 3](http://labs.phaser.io/index.html)
+- [Class files](https://photonstorm.github.io/phaser3-docs/index.html)
+- [es6 phaser 3 tutorial](http://codetuto.com/2018/02/getting-started-phaser-3-es6-create-boomdots-game/)
