@@ -7,7 +7,7 @@ export class Game extends phaser.Scene {
             physics: {
               default: 'arcade',
               arcade: {
-                  debug: true,
+                  // debug: true,
                   // gravity: 0 // We don't need gravity for this game
               }
           }
